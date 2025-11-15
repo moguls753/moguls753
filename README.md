@@ -36,7 +36,7 @@ Full-stack Rails developer at pludoni GmbH. Building web applications and contri
 
 - **[rails-i18n-hover.nvim](https://github.com/moguls753/rails-i18n-hover.nvim)** - Neovim plugin for Rails i18n translation lookup
 - **[uuid-benchmark](https://github.com/moguls753/uuid-benchmark)** - Performance comparison of UUID versions as primary keys across multiple databases
-- Contributing to open-source Rails and Neovim projects
+- Contributing to open-source projects like rails/thor and Neovim
 
 
 ⚡ **Fun fact:** Former classical guitarist turned full-time developer.
