@@ -34,6 +34,7 @@ Full-stack Rails developer at pludoni GmbH. Building web applications and contri
 
 ### 🚀 Projects
 
+- **[scorebase.org](https://github.com/moguls753/scorebase)** - RAG-powered sheet music search platform with semantic search and natural language queries. Rails + Python/FastAPI
 - **[rails-i18n-hover.nvim](https://github.com/moguls753/rails-i18n-hover.nvim)** - Neovim plugin for Rails i18n translation lookup
 - **[uuid-benchmark](https://github.com/moguls753/uuid-benchmark)** - Performance comparison of UUID versions as primary keys across multiple databases
 - Contributing to open-source projects like rails/thor and Neovim
