@@ -16,7 +16,9 @@ Full-stack Rails developer at pludoni GmbH. Building web applications and contri
 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -35,8 +37,8 @@ Full-stack Rails developer at pludoni GmbH. Building web applications and contri
 ### 🚀 Projects
 
 - **[scorebase.org](https://github.com/moguls753/scorebase)** - RAG-powered sheet music search platform with semantic search and natural language queries. Rails + Python/FastAPI
-- **[rails-i18n-hover.nvim](https://github.com/moguls753/rails-i18n-hover.nvim)** - Neovim plugin for Rails i18n translation lookup
-- **[uuid-benchmark](https://github.com/moguls753/uuid-benchmark)** - Performance comparison of UUID versions as primary keys across multiple databases
+- **[Cortex](https://github.com/moguls753/cortex)** - Self-hosted AI second brain: captures thoughts via Telegram, classifies and embeds with LLMs, exposes everything via MCP server. TypeScript + PostgreSQL/pgvector
+- **[uuid-benchmark](https://github.com/moguls753/uuid-benchmark)** - Cross-architecture comparison of UUID strategies across 4 databases. Go + Docker | [Interactive Dashboard](https://moguls753.github.io/uuid-benchmark/)
 - Contributing to open-source projects like rails/thor and Neovim
 
 
