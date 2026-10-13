@@ -37,7 +37,6 @@ Full-stack Rails developer at pludoni GmbH. Building web applications and contri
 ### 🚀 Projects
 
 - **[scorebase.org](https://github.com/moguls753/scorebase)** - RAG-powered sheet music search platform with semantic search and natural language queries. Rails + Python/FastAPI
-- **[Cortex](https://github.com/moguls753/cortex)** - Self-hosted AI second brain: captures thoughts via Telegram, classifies and embeds with LLMs, exposes everything via MCP server. TypeScript + PostgreSQL/pgvector
 - **[uuid-benchmark](https://github.com/moguls753/uuid-benchmark)** - Cross-architecture comparison of UUID strategies across 4 databases. Go + Docker | [Interactive Dashboard](https://moguls753.github.io/uuid-benchmark/)
 - Contributing to open-source projects like rails/thor and Neovim
 
